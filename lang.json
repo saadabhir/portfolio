@@ -1,0 +1,54 @@
+{
+  "en": {
+    "aboutnav": "About Me",
+    "projectsnav": "Projects",
+    "certificatesnav": "Certificates",
+    "contactnav": "Contact",
+    "diplome": "Electrical Engineering and Intelligent Systems",
+    "competencesnav": "Skills",
+    "statusacad": "Future electrical engineer",
+    "projbtn": "My Projects",
+    "contactbtn": "Contact Me",
+    "portfoliobtn": "PDF Portfolio version",
+    "skillstitle": "Skills",
+    "skillsdesc1": "Circuit analysis and design – Embedded programming – Analog and digital circuits and signal processing – Power distribution",
+    "contacttitle": "Contact",
+    "parcours": "Academic journey"
+  },
+  "fr": {
+    "aboutnav": "À propos",
+    "projectsnav": "Projets",
+    "certificatesnav": "Certificats",
+    "contactnav": "Contact",
+    "diplome": "Génie Électrique et Systèmes Intelligents",
+    "competencesnav": "Compétences",
+    "statusacad": "Futur ingénieur électrique",
+    "projbtn": "Mes Projets",
+    "contactbtn": "Contactez-moi",
+    "portfoliobtn": "Version PDF du portfolio",
+    "skillstitle": "Mes Compétences",
+    "skillsdesc1": "Analyse de circuits et conception – Programmation embarquée – Circuits analogiques et numériques et traitement du signal – Distribution d'énergie",
+    "contacttitle": "Contact",
+    "parcours": "Parcours"
+
+  },
+  "de": {
+ 
+  "aboutnav": "Über mich",
+  "projectsnav": "Projekte",
+  "certificatesnav": "Zertifikate",
+  "contactnav": "Kontakt",
+  "diplome": "Elektrotechnik- und intelligente Systeme",
+  "competencesnav": "Kompetenzen",
+  "statusacad": "Zukünftiger Elektroingenieur",
+  "projbtn": "Meine Projekte",
+  "contactbtn": "Kontaktiere mich",
+  "portfoliobtn": "PDF-Version des Portfolios",
+  "skillstitle": "Meine Kompetenzen",
+  "skillsdesc1": "test",
+  "contacttitle": "Kontakt",
+  "parcours": "Lebenslauf"
+
+
+  }
+}
