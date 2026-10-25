@@ -11,9 +11,19 @@
     "contactbtn": "Contact Me",
     "portfoliobtn": "PDF Portfolio version",
     "skillstitle": "Skills",
-    "skillsdesc1": "Circuit analysis and design – Embedded programming – Analog and digital circuits and signal processing – Power distribution",
+    "skillsdesc1": "- Circuit analysis and creation(PCB design, CAD).",
+    "skillsdesc2": "- Embedded programming(STM32, PIC, ESP32, SPI, I2C, UART, CAN, ModBus Communication protocols. RTOS (Zephyr, FreeRTOS, VxWorks), Embedded Linux, Embedded Machine Learning.",
+    "skillsdesc3": "- Power systems.",
+    "skillsdesc4": "- FPGA programming(VHDL, Verilog).",
+    "skillsdesc5": "- Simulation and validation.",
+    "skillsdesc6": "- Analog and digital signal processing.",
+    "skillsdesc7": "- Communication and team management.",   
     "contacttitle": "Contact",
-    "parcours": "Academic journey"
+    "parcours": "Academic journey",
+    "certv": "View certificate",
+    "proj1desc": "Surveillance system based on the STM32F411RE with custom drivers to monitor temperature, humidity (DHT11) and tilt (SW520-D) activated with an interrupt. The data is shown using a 16x2 LCD via I2C.",
+    "proj1title": "STM32 Surveillance system",
+    "projet1deschtml": "STM32F411RE temperature and humidity surveillance system using the DHT11 sensor driven with drivers written from scratch using baremetal C and registers, with an interrupt driven tilt sensor (SW520-D)."
   },
   "fr": {
     "aboutnav": "À propos",
@@ -27,9 +37,18 @@
     "contactbtn": "Contactez-moi",
     "portfoliobtn": "Version PDF du portfolio",
     "skillstitle": "Mes Compétences",
-    "skillsdesc1": "Analyse de circuits et conception – Programmation embarquée – Circuits analogiques et numériques et traitement du signal – Distribution d'énergie",
+    "skillsdesc1": "- Analyse de circuits et conception(PCB design, CAD).",
+    "skillsdesc2": "- Programmation embarquée(Platformes STM32, PIC, ESP32, Protocols SPI, I2C, UART, CAN, ModBus. RTOS (Zephyr, FreeRTOS, VxWorks) Embedded Linux, Embedded Machine learning ).",
+    "skillsdesc3": "- Systèmes électriques de puissance.",
+    "skillsdesc4": "- Conception FPGA (VHDL, Verilog).",
+    "skillsdesc5": "- Simulation et validation.",
+    "skillsdesc6": "- Traitement des signaux numériques et analogiques.",
+    "skillsdesc7": "- Communication et gestion d'équipe.",    
     "contacttitle": "Contact",
-    "parcours": "Parcours"
-
+    "parcours": "Parcours",
+    "certv": "Voir le certificat",
+    "proj1desc": "Système de surveillance basé sur le STM32F411RE avec pilotes personnalisés pour surveiller la température, l'humidité (DHT11) et l'inclinaison (SW520-D) activée par une interrupt. Les données sont affichées sur un écran LCD 16×2 via le protocole I2C.",
+    "proj1title": "Système de surveillance basé sur le STM32",
+    "projet1deschtml": "Système de surveillance de la température et de l'humidité basé sur un STM32F411RE et un capteur DHT11, piloté par des pilotes développés de toutes pièces en langage C bare-metal (accès direct aux registres), et incluant un capteur d'inclinaison (SW520-D) géré par interruptions."
   }
 }
