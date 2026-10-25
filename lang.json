@@ -31,24 +31,5 @@
     "contacttitle": "Contact",
     "parcours": "Parcours"
 
-  },
-  "de": {
- 
-  "aboutnav": "Über mich",
-  "projectsnav": "Projekte",
-  "certificatesnav": "Zertifikate",
-  "contactnav": "Kontakt",
-  "diplome": "Elektrotechnik- und intelligente Systeme",
-  "competencesnav": "Kompetenzen",
-  "statusacad": "Zukünftiger Elektroingenieur",
-  "projbtn": "Meine Projekte",
-  "contactbtn": "Kontaktiere mich",
-  "portfoliobtn": "PDF-Version des Portfolios",
-  "skillstitle": "Meine Kompetenzen",
-  "skillsdesc1": "test",
-  "contacttitle": "Kontakt",
-  "parcours": "Lebenslauf"
-
-
   }
 }
